@@ -1,2 +1,2 @@
 # small-practices
-Just some algorithms
+Just some algorithms: data structures, sorting techniques, etc.
